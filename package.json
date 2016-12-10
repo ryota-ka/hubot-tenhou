@@ -1,0 +1,16 @@
+{
+  "name": "hubot-tenhou",
+  "description": "Draws 14 mahjong tiles",
+  "version": "0.0.1",
+  "author": "Ryota Kameoka <kameoka.ryota@gmail.com>",
+  "license": "MIT",
+  "keywords": ["mahjong", "tenhou"],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ryota-ka/hubot-tenhou.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ryota-ka/hubot-tenhou/issues"
+  },
+  "main": "src/tenhou.js"
+}
